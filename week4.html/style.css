@@ -1,0 +1,42 @@
+body {
+    background-color: #d8c2d1;
+    margin: 0;
+    margin: 0;
+}
+nav ul{
+    background-color: black;
+    padding: 0;
+    margin: 0; 
+    text-align: center;
+}
+nav ul li {
+    display: inline;
+    padding: 20px;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+nav ul li a:hover{
+    color: red;
+}
+header h1{
+    text-align: center;
+}
+article header p{font-style: italic;}
+main{ padding-left: 24px;}
+
+main article{ 
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.my-list img {width:100px ;
+    height:100px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;}
