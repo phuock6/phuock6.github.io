@@ -1,0 +1,4 @@
+div{ 
+    width: 400px ;}
+div:nth-child(even) {background: color #f9f9f9;}
+div:nth-child(odd) {background-color: #ff9;}
